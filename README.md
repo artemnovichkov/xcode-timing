@@ -13,11 +13,11 @@ $ make install
 3. Edit behaviors via Xcode -> Behaviors -> Edit Behaviors...
 
 - Add start.sh script to Starts
-<img src=".github/starts.png" width="40%"/>
+<img src=".github/starts.png" width="80%"/>
 
 - Add end.sh script to Succeeds and Fails
-<img src=".github/succeeds.png" width="40%"/>
-<img src=".github/fails.png" width="40%"/>
+<img src=".github/succeeds.png" width="80%"/>
+<img src=".github/fails.png" width="80%"/>
 
 ## Usage
 

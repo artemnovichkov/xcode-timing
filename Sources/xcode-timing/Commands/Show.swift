@@ -17,6 +17,7 @@ struct Show: ParsableCommand {
         let buildData = try FileManager.default.makeBuildData()
         if buildData.isEmpty {
             print("No build data")
+            return
         }
 
         var textTable: TextTable
